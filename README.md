@@ -1,3 +1,4 @@
+![image](https://github.com/Domo09/Virtual-Machine/assets/146874259/e1a1fa5c-314b-4595-a2c1-054aa3dd4473)
 
 
 <h1>Creating a Virtual Machine inside Azure Portal (Azure)</h1>
